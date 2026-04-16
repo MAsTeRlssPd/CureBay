@@ -1,6 +1,6 @@
-# curebay_app
+# CureBay
 
-A new Flutter project.
+A Flutter project for the CureBay application.
 
 ## Getting Started
 
